@@ -27,5 +27,7 @@ Here are some languages I'm currently using or learning:
 ![Javascript](https://raw.githubusercontent.com/Barabazs/Barabazs/master/img/javascript.svg?s=64 "Javascript") |![HTML](https://raw.githubusercontent.com/Barabazs/Barabazs/master/img/html5.svg?s=64 "HTML") | ![CSS](https://raw.githubusercontent.com/Barabazs/Barabazs/master/img/css3.svg?s=64 "CSS") |
 
 
-
+#####Disclaimer
+_Not a single animal was harmed during the production of the authors code.  
+The authors brain and body relies solely on :seedling:._
 
