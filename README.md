@@ -1,4 +1,4 @@
-### Hi there 👋!  I'm Barabazs
+### Hi there 👋 I'm Barabazs
 
 <!--
 **Barabazs/Barabazs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
