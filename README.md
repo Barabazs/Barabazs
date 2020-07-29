@@ -28,6 +28,6 @@ Here are some languages I'm currently using or learning:
 
 
 ###### Disclaimer
-_Not a single animal was harmed during the production of the authors code.  
-The authors brain and body relies solely on :seedling:._
+>_Not a single animal was harmed during the production of the authors code.  
+>The authors brain and body relies solely on :seedling:._
 
