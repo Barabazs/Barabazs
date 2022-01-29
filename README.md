@@ -31,3 +31,12 @@ Here are some languages I'm currently using or learning:
 >_Not a single animal was harmed during the production of the authors code.  
 >The authors brain and body relies solely on :seedling:._
 
+
+## Donations
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T51XKUJ)
+
+|Ethereum|Bitcoin|
+|:-:	|:-:	|
+|0x6b78d3deea258914C2f4e44054d22094107407e5|bc1qvvh8s3tt97cwy20mfdttpwqw0vgsrrceq8zkmw|
+|![eth](.github/eth.png)|![btc](.github/btc.png)|
